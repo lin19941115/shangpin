@@ -1,0 +1,558 @@
+header{
+	width: 100%;
+	height: .88rem;
+	background-color: #F6563E;
+	padding: .24rem .24rem;
+	position: relative;
+}
+#daolanglan .saoyisao{
+	width: .4rem;
+	height: .4rem;
+	border-radius: 50%;
+	display: block;
+	float: left;
+	background-color: #fff;
+	font-family: "苹方","宋体";
+	text-align: center;
+	color: #F6563E;
+	line-height: .4rem;
+	box-shadow: 0 0 1px 1px #F4B1A5;
+}
+#daolanglan .saoyisao .iconfont{
+	font-size: .24rem;
+	display: block;
+}
+.pinpaiming{
+	width: .8rem;
+	height: .56rem;
+	display: block;
+	margin-left: 2.71rem;
+	background-color: #fff;
+	float: left;
+}
+.sousuo{
+	width: .4rem;
+	height: .4rem;
+	border-radius: 50%;
+	display: block;
+	float: right;
+	background-color: #fff;
+	font-family: "苹方","宋体";
+	text-align: center;
+	color: #F6563E;
+	line-height: .4rem;
+	box-shadow: 0 0 1px 1px #F4B1A5;
+
+}
+#daolanglan .sousuo .iconfont{
+	display: block;
+	font-size: .24rem;
+}
+#banner{
+	width: 100%;
+	height: 3.67rem;
+	background-color: #444;
+	position: relative;
+	display: block;
+
+}
+#banner span:nth-child(2){
+	font-size: .3rem;
+	font-weight: bolder;
+	font-family: "San Francisco display";
+	color: #fff;
+	position: absolute;
+	top: .65rem;
+	right: 1.11rem;
+
+}
+#banner span:nth-child(3){
+	font-size: .3rem;
+	font-weight: bold;
+	font-family: "苹方";
+	color: #fff;
+	position: absolute;
+	top: .94rem;
+	right: 2.28rem;
+}
+#banner ul{
+	width: 1.58rem;
+	height: .04rem;
+	background-color: #fff;
+	position: absolute;
+	bottom: 2.24rem;
+	right: 3.39rem;
+}
+#banner span:nth-child(5){
+	font-size: .26rem;
+	font-weight: bold;
+	font-family: "San Francisco display";
+	color: #fff;
+	position: absolute;
+	bottom: 1.68rem;
+	left: 2.53rem;
+
+}
+#banner span:nth-child(6){
+	font-size: .24rem;
+	font-weight: normal;
+	font-family: "San Francisco display";
+	color: #FB9687;
+	position: absolute;
+	bottom: 1.68rem;
+	left: 2.89rem;
+}
+#fenleidaohang{
+	width: 100%;
+	height: 2.16rem;
+	background-color: #F2F2F2;
+	display: block;
+	position: relative;
+}
+.gongneng{
+	width: 1.754rem;
+	height: 2.16rem;
+	float: left;
+	position: absolute;
+	left: .24rem;
+	display: block;
+}
+#fenleidaohang .gongneng .sirendingzhi{
+	width: 1.04rem;
+	height: 1.04rem;
+	border-radius: 50%;
+	position: absolute;
+	top: .36rem;
+	left: .37rem;
+	box-shadow: 0 0 1px 1px #F4B1A5;
+	background-color: #F6563E;
+	display: block;
+	font-family: "San Francisco display";
+	text-align: center;
+	line-height: 1.04rem;
+}
+.gongneng .sirendingzhi .iconfont{
+	font-size: .7rem;
+	display: block;
+	color: #fff;
+	line-height: 1.04rem;
+
+}
+.gongneng .wenzi{
+	font-size: .22rem;
+	font-weight: normal;
+	font-family: "苹方";
+	color: #878787;
+	position: absolute;
+	bottom: .40rem;
+	right: .4rem;
+}
+#fenleidaohang .gongneng1{
+	float: left;
+	position: absolute;
+	left: 1.994rem;
+	display: block;
+}
+#fenleidaohang .gongneng2{
+	float: left;
+	position: absolute;
+	left: 3.748rem;
+	display: block;
+}
+#fenleidaohang .gongneng3{
+	float: left;
+	position: absolute;
+	left: 5.502rem;
+	display: block;
+}
+#xinpin-box{
+	width: 100%;
+	height: 4.3rem;
+	background-color: #F2F2F2;
+	position: relative;
+	overflow: hidden;
+}
+.xinpin-box-top{
+	width: 7.02rem;
+	height: .8rem;
+	position: absolute;
+	top: 0;
+	left: .24rem;
+	overflow: hidden;
+}
+#xinpin-box .xinpin-box-top span:nth-child(1){
+	font-size: .26rem;
+	color: #C42611;
+	font-weight: bold;
+	font-family: "苹方";
+	position: absolute;
+	top: 0;
+	left: 0;
+	float: left;
+
+}
+#xinpin-box .xinpin-box-top span:nth-child(2){
+	font-size: .24rem;
+	font-weight: bold;
+	color: #726F6F;
+	font-family: "San Francisco display";
+	position: absolute;
+	top: .31rem;
+	left: 0;
+	float: left;
+}
+.xinpin-box-top ul:nth-child(3){
+	width: .1rem;
+	height: .1rem;
+	background-color: #F7C7B4;
+	border-radius: 50%;
+	position: absolute;
+	top: .3rem;
+	right: .24rem;
+}
+.xinpin-box-top ul:nth-child(4){
+	width: .1rem;
+	height: .1rem;
+	background-color: #F7C7B4;
+	border-radius: 50%;
+	position: absolute;
+	top: .3rem;
+	right: .38rem;
+}
+.xinpin-box-top ul:nth-child(5){
+	width: .1rem;
+	height: .1rem;
+	background-color: #F7C7B4;
+	border-radius: 50%;
+	position: absolute;
+	top: .3rem;
+	right: .52rem;
+}
+.xinpin-box-bottom{
+	width: 7.02rem;
+	height: 3.5rem;
+	position: absolute;
+	top: .8rem;
+	left: .24rem;
+}
+.xinpin{
+	width: 2.58rem;
+	height: 3.5rem;
+	float: left;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+}
+.xinpin-box-bottom .xinpin2{
+	width: 2.58rem;
+	height: 3.5rem;
+	float: left;
+	position: absolute;
+	top: 0;
+	left: 2.78rem;
+	display: block;
+}
+.xinpin-box-bottom .xinpin3{
+	width: 2.58rem;
+	height: 3.5rem;
+	float: left;
+	position: absolute;
+	top: 0;
+	left: 5.56rem;
+	display: block;
+}
+.xinpin div:nth-child(1){
+	width: 2.38rem;
+	height: 3.5rem;
+	background-color: #FB6A55;
+	border-radius: .08rem;
+	margin: 0 auto;
+}
+.xinpin div:nth-child(2){
+	width: 2.58rem;
+	height: 3.2rem;
+	background-color: #C79976;
+	border-radius: .08rem;
+	position: absolute;
+	top: .15rem;
+	overflow: hidden;
+}
+.xinpin div:nth-child(2) .xinxing-box{
+	width: 2.58rem;
+	height: 1.3rem;
+	background-color: #222;
+	border-radius: 0;
+	background-color: rgba(0, 0, 0, 0.5);
+	position: absolute;
+	top: 1.9rem;
+}
+.xinpin div:nth-child(2) .xinxing-box .xingxing{
+	width: .16rem;
+	height: .16rem;
+	margin-top: .12rem;
+	margin-left: .07rem;
+	float: left;
+}
+.xinpin div:nth-child(2) .xinxing-box .xingxing1{
+	width: .16rem;
+	height: .16rem;
+	margin-top: .12rem;
+	margin-left: .75rem;
+	float: left;
+}
+.xinpin div:nth-child(2) .shangpinming{
+	width: 2.58rem;
+	height: .9rem;
+	background-color: #fff;
+	border-radius: .08rem;
+	position: absolute;
+	top: 2.3rem;
+	display: block;
+}
+.shangpinming span:nth-child(1){
+	font-size: .22rem;
+	font-weight: bold;
+	font-family: "苹方";
+	color: #505050;
+	position: absolute;
+	top: .02rem;
+	left: .57rem;
+}
+.shangpinming span:nth-child(2){
+	font-size: .22rem;
+	font-weight: bold;
+	font-family: "苹方";
+	color: #8D8D8D;
+	position: absolute;
+	top: .12rem;
+	left: .441rem;
+}
+.shangpinming .xiaoyuan{
+	width: .08rem;
+	height: .08rem;
+	background-color: #4F4F4F;
+	border-radius: 50%;
+	position: absolute;
+	top: .32rem;
+	left: .441rem;
+}
+.shangpinming .xiaoyuan2{
+	width: .08rem;
+	height: .08rem;
+	background-color: #4F4F4F;
+	border-radius: 50%;
+	position: absolute;
+	top: .32rem;
+	right: .441rem;
+}
+.shangpinming span:nth-child(3){
+	font-size: .2rem;
+	font-weight: normal;
+	font-family: "San Francisco display";
+	color: #9D9D9D;
+	position: absolute;
+	top: .34rem;
+	left: .49rem;
+}
+.hot-box{
+	width: .61rem;
+	height: .21rem;
+	border-radius: .9rem;
+	background-color: #FF2E0A;
+	position: absolute;
+	top: .63rem;
+	left: .99rem;
+	overflow: hidden;
+}
+#pinpai-box{
+	width: 100%;
+	height: 5.64rem;
+	background-color: #F2F2F2;
+	position: relative;
+}
+.pinpai-box-top{
+	width: 7.02rem;
+	height: .8rem;
+	position: absolute;
+	top: .48rem;
+	left: .24rem;
+	overflow: hidden;
+}
+#pinpai-box .pinpai-box-top span:nth-child(1){
+	font-size: .26rem;
+	color: #C42611;
+	font-weight: bold;
+	font-family: "苹方";
+	position: absolute;
+	top: 0;
+	left: 0;
+	float: left;
+}
+#pinpai-box .pinpai-box-top span:nth-child(2){
+	font-size: .24rem;
+	font-weight: bold;
+	color: #726F6F;
+	font-family: "San Francisco display";
+	position: absolute;
+	top: .31rem;
+	left: 0;
+	float: left;
+}
+.pinpai-box-top ul:nth-child(3){
+	width: .1rem;
+	height: .1rem;
+	background-color: #F7C7B4;
+	border-radius: 50%;
+	position: absolute;
+	top: .3rem;
+	right: .24rem;
+}
+.pinpai-box-top ul:nth-child(4){
+	width: .1rem;
+	height: .1rem;
+	background-color: #F7C7B4;
+	border-radius: 50%;
+	position: absolute;
+	top: .3rem;
+	right: .38rem;
+}
+.pinpai-box-top ul:nth-child(5){
+	width: .1rem;
+	height: .1rem;
+	background-color: #F7C7B4;
+	border-radius: 50%;
+	position: absolute;
+	top: .3rem;
+	right: .52rem;
+}
+.pinpai-box-bottom{
+	width: 7.02rem;
+	height: 4.28rem;
+	position: absolute;
+	top: 1.28rem;
+	left: .24rem;
+}
+.pinpai{
+	width: 7.02rem;
+	height: 2.06rem;
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+}
+.pinpai .geziqun{
+	width: 6.69rem;
+	height: 1.9rem;
+	background-color: #F8AA65;
+	border-radius: .10rem;
+	position: absolute;
+	bottom: 0;
+	left: .16rem;
+}
+.pinpai .taoqun{
+	width: 7.02rem;
+	height: 1.9rem;
+	background-color: #fff;
+	border-radius: .10rem;
+	position: absolute;
+	top: 0;
+}
+.taoqun-left{
+	width: 2.24rem;
+	height: 100%;
+	border-radius: .1rem;
+	position: absolute;
+	left: 0;
+	overflow: hidden;
+}
+.taoqun-right{
+	width: 4.66rem;
+	height: 1.58rem;
+	position: absolute;
+	right: 0;
+	top: 0.16rem;
+}
+.taoqun-right span:nth-child(1){
+	font-size: .26rem;
+	font-weight: bold;
+	font-family: "苹方";
+	color: #FB7921;
+	position: absolute;
+	left: 0;
+	top: .05rem;
+}
+.taoqun-right span:nth-child(2){
+	font-size: .24rem;
+	font-weight: normal;
+	font-family: "San Francisco display";
+	color: #A2A2A2;
+	position: absolute;
+	left: 0;
+	top: .34rem;
+}
+.pinpai-box-bottom .pingpai1{
+	position: absolute;
+	top: 2.22rem;
+
+}
+#kongqu{
+	width: 100%;
+	height: .39rem;
+	background-color: #F2F2F2;
+}
+footer{
+	width: 100%;
+	height: .98rem;
+	background-color: #F6563E;
+	position: relative;
+}
+.shouye,.fenlei,.gouwuche,.wode{
+	width: 1.755rem;
+	height: 100%;
+	float: left;
+}
+.shouye{
+	margin-left: .24rem;
+}
+.shouye-icon,.fenlei-icon,.gouwuche-icon,.wode-icon{
+	width: .66rem;
+	height: .66rem;
+	border-radius: 50%;
+	background-color: #fff;
+	margin: 0 auto;
+	margin-top: .16rem;
+	position: relative;
+}
+.shouye-box,.fenlei-box,.gouwuche-box,.wode-box{
+	width: .58rem;
+	height: .58rem;
+	border-radius: 50%;
+	margin: 0 auto;
+	position: absolute;
+	top: .04rem;
+	left: .04rem;
+	border: .02rem solid #B2B2B2;
+	font-size: .36rem;
+	color: #B2B2B2;
+	text-align: center;
+	line-height: .58rem;
+	
+}
+.zong-icon:hover{
+	width: .9rem;
+	height: .9rem;
+	margin-top: .04rem;
+}
+.zong-box:hover{
+	width: .8rem;
+	height: .8rem;
+	position: absolute;
+	top: .05rem;
+	left: .05rem;
+	border: .02rem solid orange;
+	font-size: .5rem;
+	color: orange;
+	text-align: center;
+	line-height: .8rem;
+}
